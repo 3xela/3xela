@@ -1,5 +1,6 @@
 - math/econ student at uoft
 - interested in solving PDE's/derivative pricing
+- building market models
 
 <!---
 3xela/3xela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
