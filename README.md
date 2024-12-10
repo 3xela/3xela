@@ -1,4 +1,4 @@
-- math/econ student at uoft -> ML eng at WOMBO
+- math/econ student at uoft
 - interested in solving PDE's/derivative pricing
 - building market models
 - [neagoe.xyz](https://neagoe.xyz/)
