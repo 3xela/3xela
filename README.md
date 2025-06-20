@@ -1,5 +1,5 @@
 - math/econ student at uoft -> WOMBO AI
-- [neagoe.xyz](https://neagoe.xyz/)]
+- [neagoe.xyz](https://neagoe.xyz/)
 - computing enthusiast
 <!---
 3xela/3xela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
