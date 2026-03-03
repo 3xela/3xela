@@ -1,4 +1,4 @@
-- math/econ student at uoft -> WOMBO AI
+- math guy
 - [neagoe.xyz](https://neagoe.xyz/)
 - computing enthusiast
 <!---
